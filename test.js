@@ -834,3 +834,5 @@
 //   }, 2000);
 // });
 // p.then((d) => console.log(d)).catch((e) => console.log(e));
+
+console.log(7)

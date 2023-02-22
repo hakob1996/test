@@ -1,0 +1,11 @@
+/* .passive{
+    visibility: hidden;
+}
+
+img{
+    height: 200px;
+} */
+
+canvas {
+    border: 1px solid black;
+  }
